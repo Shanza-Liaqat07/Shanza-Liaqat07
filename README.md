@@ -10,7 +10,7 @@
 - 🌱 Currently learning via **TryHackMe**, **Hack The Box**, and studying for **CompTIA Security+**  
 - 💻 I enjoy solving **CTFs, analyzing network traffic, and building home labs**  
 - 💞️ Looking to collaborate on **cybersecurity research, open-source tools, or Blue/Red Team exercises**  
-- 📫 Reach me at: **shanzaliaqat07@gmail.com**  
+- 📫 Reach me at: **shanzaliaqat95@gmail.com**  
 - ⚡ Fun fact: I break things safely to understand how to protect them 😄  
 
 ---
